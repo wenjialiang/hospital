@@ -1,0 +1,7 @@
+本实验运行环境
+运行软件：Oxygen.3a Release (4.7.3a)
+运行环境：jdk15.0.2
+	mysql-8.0.11-winx64
+	hospital_server需要连接mysql-connector-java-8.0.29
+本实验分成两个工程：hostipal_client hospital_server
+需要把one.jpg放在hostipal_client下。
